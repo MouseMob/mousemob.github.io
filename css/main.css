@@ -65,6 +65,9 @@ body {
   font-size: 30px;
   text-align: center;
 }
+.header-content .header-content-inner h2 {
+  text-align: center;
+}
 .device-container {
   width: 100%;
   position: relative;
